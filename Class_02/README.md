@@ -35,21 +35,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-
 ***
-#### Quarter-2 Class-2 Assignment
-* Create two new components in a Next.js application: Header and About. Then, import them
- into the homepage Ul. 
- * Additionally, review the files and folder structure of Next.js in detail.
-***
-##### Files and folder structure of Next.js
-In a Next.js project, the folder structure is organized to streamline routing, component management, styling, and static assets:
 
-components/: Stores reusable React components (e.g., Header.tsx, About.tsx), used across different pages.
-
-pages/: Each file becomes a route automatically, such as page.tsx for the homepage and any additional pages.
-
-package.json: Defines dependencies and scripts for the project.
-This structure keeps the project modular and organized, especially as it grows.
+#### Quarter-2 Class-1 Assignment
+*  Create a new project of NextJS with the CLI - and code a simple hello world program in it.
 
 ***

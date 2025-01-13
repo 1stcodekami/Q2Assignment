@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <div>
       <Navbar />
-      <h1 className="m-5">Home Page</h1>
+      <h1 className="m-5 text-2xl">Home Page</h1>
       <Footer />
     </div>
   );

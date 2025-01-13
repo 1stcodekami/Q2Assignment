@@ -5,7 +5,7 @@
 export default function home(){
   return (
     <div>
-      <h1>Hello world...!</h1>
+      <h1 className="flex justify-center pt-10 text-3xl">Hello world...!</h1>
     </div>
   )
 
